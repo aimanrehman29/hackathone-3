@@ -1,0 +1,11 @@
+Day 5 Updates
+Overview
+Day 5 focused on testing, error handling, and backend integration to enhance platform robustness and scalability.
+
+Key Updates
+Testing: 7 test cases passed, covering validation, error handling, and responsiveness.
+Performance: Lighthouse score 55/100, with Accessibility, SEO, and Best Practices scoring 90+.
+Debugging: Optimized DOM size, JS heap, and event listeners.
+API Validation: Postman-tested endpoints with accurate responses.
+Responsiveness: Verified mobile layouts for seamless UI.
+Security: Recommended switching to HTTPS.
